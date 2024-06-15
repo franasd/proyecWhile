@@ -17,6 +17,8 @@ int n;
     //chavito
     //mierda
     while (true) {
+
+        System.out.println("pvto");
         if (n==0) {
             break;
         }
