@@ -1,2 +1,1 @@
-﻿#proyecWhile
-as
+﻿#Trabajo Algoritmia
